@@ -9,7 +9,6 @@ commands:
     permission: givecompass.use
   joingame:
     description: Join standonblock game
-    permission: joingame.use
   guidesob:
     description: Gives you the userguide for the plugin
     permission: guidesob.use
