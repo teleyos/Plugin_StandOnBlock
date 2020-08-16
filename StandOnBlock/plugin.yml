@@ -1,0 +1,15 @@
+name: StandOnBlock
+version: 1.0
+api-version: 1.16
+author: Teleyos
+main: fr.teleyos.StandOnBlock
+commands:
+  givecompass:
+    description: Gives the compass for the plugin
+    permission: givecompass.use
+  joingame:
+    description: Join standonblock game
+    permission: joingame.use
+  guidesob:
+    description: Gives you the userguide for the plugin
+    permission: guidesob.use
